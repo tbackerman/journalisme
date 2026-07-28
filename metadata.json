@@ -1,0 +1,6 @@
+{
+  "name": "Jurnal Nusantara - Platform Publikasi & Peer Review Auto",
+  "description": "Platform jurnal ilmiah digital dengan sistem peer review otomatis Gemini AI, dashboard pelacakan publikasi, manajemen peran Admin/User/Reviewer, dan notifikasi email.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
